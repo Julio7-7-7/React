@@ -1,0 +1,20 @@
+.card{
+  background-color: #202020;
+  color: white;
+  padding: 30px;
+}
+
+.title{
+  font-weight: lighter;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tareaRealizada{
+  background-color: rgb(64, 210, 64);
+  color: azure;
+}
+
+.tareaIncompleta{
+  background-color: rgb(180, 35, 35);
+  color: rgb(194, 198, 198);
+}
