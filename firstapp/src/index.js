@@ -5,7 +5,7 @@ import ReactDOM from "react-dom/client";
 // import { Button } from "./Buttom";
 // import { TaskCard } from "./Task";
 // import { Posts } from "./Posts";
-import { Counter } from "./Counter";
+import { Counter, Usuario } from "./Counter";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -71,5 +71,6 @@ root.render(
     })} */}
 
     <Counter />
+    <Usuario />
   </>
 );
